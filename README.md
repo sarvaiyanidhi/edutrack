@@ -1,24 +1,12 @@
-# README
+# EduTrack
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+EduTrack is a comprehensive Learning Management System (LMS) designed to enhance the educational experience for both learners and educators. Our platform offers a range of powerful features to facilitate effective and engaging learning environments.
 
-Things you may want to cover:
+## Technologies Used
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- **Rails 7**
+- **Tailwind CSS**
+- **Hotwire (Turbo and Stimulus)**
+- **PostgreSQL**
+- **Stripe**
+- **Importmap**: For managing JavaScript dependencies
